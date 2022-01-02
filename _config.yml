@@ -29,7 +29,6 @@ linkedin: laimei
 
 # Build settings
 remote_theme: fongandrew/hydeout
-theme: jekyll-theme-hydeout
 plugins:
   - jekyll-feed
   - jekyll-paginate
