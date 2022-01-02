@@ -36,7 +36,8 @@ plugins:
   - jekyll-gist
 
 sidebar_home_link:  true
-pagination: 5
+paginate: 5
+future: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
